@@ -1,0 +1,283 @@
+{"goods": [{
+    "name": "火锅底料",
+    "type": -1,
+    "foods": [{
+            "id":1,
+            "name": "番茄火锅",
+            "price": 49,
+            "oldPrice": "90",
+            "description":"精选日照充裕的阳光番茄，制酱炒制而成的番茄底料；推荐搭配河鲜类食材。",
+            "sellCount": 229,
+            "rating": 100,
+            "info": "1",
+            "count": 0,
+            "image": "image/锅底/pic_01.jpg"
+        },
+        {
+            "id":2,
+            "name": "牛油麻辣火锅",
+            "price": 49,
+            "oldPrice": "",
+            "description": "选用牛油与茂汶等原产花椒，越煮越香，不变味，搭配蒜泥香油味碟，这样吃才地道。",
+            "sellCount": 188,
+            "rating": 96,
+            "info": "2",
+            "count": 0,
+            "image": "image/锅底/pic_01 (1).jpg"
+        },
+        {
+            "id":3,
+            "name": "菌汤火锅",
+            "price": 49,
+            "oldPrice": "",
+            "description": "锅底汤色黄褐，清澈；菌香浓郁、爽口；推荐搭配涮食菌菇类食材。",
+            "sellCount": 124,
+            "rating": 85,
+            "info": "3",
+            "count": 0,
+            "image": "image/锅底/pic_01 (2).jpg"
+        },
+        {
+            "id":4,
+            "name": "麻辣清清油火锅",
+            "price": 49,
+            "oldPrice": "",
+            "description": "严选花椒、辣椒、香辛料原料，地道川味火锅；传统工艺发酵豆瓣；汤底色泽鲜红，口感香辣浓郁；推荐搭配涮食脆弹类动物食材。",
+            "sellCount": 114,
+            "rating": 91,
+            "info": "4",
+            "count": 0,
+            "image": "image/锅底/pic_01 (3).jpg"
+        },
+        {
+            "id":5,
+            "name": "三鲜火锅",
+            "price": 50,
+            "oldPrice": "",
+            "description": "选用现代工艺萃取的结合肉类浓缩骨汤为汤底；可根据喜好搭配不同的特色味碟均可，配合芝麻酱更佳；推荐搭配涮食海鲜类及素食类食材。",
+            "sellCount": 101,
+            "rating": 78,
+            "info": "5",
+            "count": 0,
+            "image": "image/锅底/pic_01 (4).jpg"
+        },
+        {
+            "id":6,
+            "name": "猪肚鸡火锅",
+            "price": 50,
+            "oldPrice": "",
+            "description": "精选猪肚、三黄鸡和慢火熬制的风味猪肚汤料包搭配，鲜香浓郁、椒香扑鼻；推荐搭配涮素食食材。','火锅底料",
+            "sellCount": 101,
+            "rating": 78,
+            "info": "6",
+            "count": 0,
+            "image": "image/锅底/pic_01 (5).jpg"
+        },
+        {
+            "id":7,
+            "name": "椒香火锅",
+            "price": 50,
+            "oldPrice": "",
+            "description": "高温萃取和慢火熬制而成；推荐搭配涮食脆弹类动物食材。",
+            "sellCount": 101,
+            "rating": 78,
+            "info": "7",
+            "count": 0,
+            "image": "image/锅底/pic_01 (6).jpg"
+        },
+        {
+            "id":8,
+            "name": "牛肉汤火锅",
+            "price": 50,
+            "oldPrice": "",
+            "description": "通过慢火熬煮，汤味醇正，肉香浓郁，咸鲜而不腻；推荐搭配涮素食食材。",
+            "sellCount": 101,
+            "rating": 78,
+            "info": "8",
+            "count": 0,
+            "image": "image/锅底/pic_01 (7).jpg"
+        },
+        {
+            "id":9,
+            "name": "青椒火锅",
+            "price": 50,
+            "oldPrice": "",
+            "description": "精选青辣椒、青花椒大火熬制2小时；只用植物油，好吃不油腻，推荐搭配涮食脆弹类动物食材。",
+            "sellCount": 101,
+            "rating": 78,
+            "info": "9",
+            "count": 0,
+            "image": "image/锅底/pic_01 (8).jpg"
+        },
+        {
+            "id":10,
+            "name": "泰式冬阴功火锅",
+            "price": 50,
+            "oldPrice": "",
+            "description": "冬阴功，“冬阴”是酸辣的意思，“功”是虾的意思，是泰国的一道富有特色的酸辣口味汤品，在泰国非常普遍。推荐搭配海鲜类物食材。",
+            "sellCount": 101,
+            "rating": 78,
+            "info": "10",
+            "count": 0,
+            "image": "image/锅底/pic_01 (9).jpg"
+        },
+        {
+            "id":11,
+            "name": "鸭掌火锅",
+            "price": 50,
+            "oldPrice": "",
+            "description": "卤制鸭掌配以辣油锅底；汤底色泽鲜红，口感香辣浓郁；推荐搭配涮食脆弹类动物食材。",
+            "sellCount": 101,
+            "rating": 78,
+            "info": "11",
+            "count": 0,
+            "image": "image/锅底/pic_01 (10).jpg"
+        }
+
+]
+},
+{
+    "name": "新品",
+    "type": 2,
+    "foods": [{
+        "id":12,
+        "name": "火锅牛排",
+        "price": 50,
+        "oldPrice": 36,
+        "description": "火锅牛排是选用牛肩胛中心部位较嫩的肉－牛板腱，也称牛牡蛎肉，每头牛仅有约3公斤。板腱肉经过解冻、去筋膜、分割、切片、腌制等多道复杂工序，调理后口感嫩有嚼劲，肉香味十足",
+        "sellCount": 17,
+        "rating": 100,
+        "info": "12",
+        "count": 0,
+        "image": "image/新品/pic_01 (5).jpg"
+  },
+  {
+    "id":13,
+    "name": "三豆鲜腐竹",
+    "price": 29,
+    "oldPrice": 36,
+    "description": "采用精选的非转基因黄豆、黑豆、青豆为原料，经过浸泡清洗、煮浆、揭皮而成的鲜腐竹，通过速冻工艺保证产品新鲜，口感鲜嫩，有嚼劲，豆香味浓郁，且营养丰富，摆盘美观。",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "13",
+    "count": 0,
+    "image": "image/新品/pic_01 (6).jpg"
+},
+{
+    "id":14,
+    "name": "泰国黑虎虾",
+    "price": 29,
+    "oldPrice": 70,
+    "description": "优选泰国纯海水养殖的黑虎虾，挑拣其品质大规格符合海底捞统一标准的黑虎活虾，其品种黑虎虾的虾青素含量较普通虾高出很多。而活虾直接蒸煮的工艺可最大程度保留虾的鲜嫩，使上桌时还可尝到黑虎虾刚捕捞时的鲜美滋味",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "14",
+    "count": 0,
+    "image": "image/新品/pic_01 (7).jpg"
+}
+  ]},
+  {
+    "name": "捞派特色菜",
+    "type": 2,
+    "foods": [{
+        "id":15,
+        "name": "捞派捞面",
+        "price": 50,
+        "oldPrice": 36,
+        "description": "海底捞明星产品，使用国内优质的小麦高筋面粉，坚持传统酵母发酵工艺。捞面师现场为你舞面，现做现吃，是海底捞自创的体验。",
+        "sellCount": 17,
+        "rating": 100,
+        "info": "15",
+        "count": 0,
+        "image": "image/捞派特色菜/pic_01.jpg"
+  },
+  {
+    "id":16,
+    "name": "捞派豆花",
+    "price": 29,
+    "oldPrice": 36,
+    "description": "海底捞明星产品，使用国内优质的小麦高筋面粉，坚持传统酵母发酵工艺。捞面师现场为你舞面，现做现吃，是海底捞自创的体验。",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "16",
+    "count": 0,
+    "image": "image/捞派特色菜/pic_01 (1).jpg"
+},
+{
+    "id":17,
+    "name": "捞派麻辣滑牛肉",
+    "price": 29,
+    "oldPrice": 70,
+    "description": "使用的牛肉是大小米龙和嫩肩肉，是牛的后腿和前腿中最嫩的部位，形状像黄瓜，俗称：黄瓜条。每份滑牛都要经过解冻、去筋膜、分割、切片、腌制等9道复杂工序，口感滑嫩，久煮不老，是海底捞必点菜品。",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "17",
+    "count": 0,
+    "image": "image/捞派特色菜/pic_01 (2).jpg"
+},
+{
+    "id":18,
+    "name": "捞派麻辣滑牛肉",
+    "price": 29,
+    "oldPrice": 70,
+    "description": "使用的牛肉是大小米龙和嫩肩肉，是牛的后腿和前腿中最嫩的部位，形状像黄瓜，俗称：黄瓜条。每份滑牛都要经过解冻、去筋膜、分割、切片、腌制等9道复杂工序，口感滑嫩，久煮不老，是海底捞必点菜品。",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "18",
+    "count": 0,
+    "image": "image/捞派特色菜/pic_01 (3).jpg"
+},
+{
+    "id":19,
+    "name": "捞派秘制羊肉",
+    "price": 29,
+    "oldPrice": 70,
+    "description": "选用12个月龄以内的精修羔羊后腿肉，肉质紧实，肉嫩、筋少而几乎无膻味;再选用特色红油腌制入味，肉香与油香充分融合，一口咬下去鲜嫩多汁、肉味十足。",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "19",
+    "count": 0,
+    "image": "image/捞派特色菜/pic_01 (4).jpg"
+},
+{
+    "id":20,
+    "name": "捞派毛肚",
+    "price": 29,
+    "oldPrice": 70,
+    "description": "选自牛的草肚，采用流水清洗、撕片，分切等工艺，加入葱姜、料酒、花椒，冰水浸泡而成。口感脆嫩，肉感十足，锅开后涮10-15秒即可食用。','捞派特色菜。",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "20",
+    "count": 0,
+    "image": "image/捞派特色菜/pic_01 (5).jpg"
+},
+{
+    "id":21,
+    "name": "捞派脆脆毛肚",
+    "price": 29,
+    "oldPrice": 70,
+    "description": "选自牛的草肚，采用流水清洗、撕片，分切等工艺，加入葱姜、料酒、花椒，冰水浸泡而成。口感脆嫩，肉感十足，锅开后涮10-15秒即可食用。','捞派特色菜",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "21",
+    "count": 0,
+    "image": "image/捞派特色菜/pic_01 (6).jpg"
+},
+{
+    "id":22,
+    "name": "捞派鸭肠",
+    "price": 29,
+    "oldPrice": 70,
+    "description": "捞派鸭肠选用资质和证件齐全的屠宰场鸭肠，确保每根鸭肠无杂物，口感自然脆爽有嚼劲。",
+    "sellCount": 17,
+    "rating": 100,
+    "info": "22",
+    "count": 0,
+    "image": "image/捞派特色菜/pic_01 (7).jpg"
+}
+  ]}
+]
+}
+
+
+  
